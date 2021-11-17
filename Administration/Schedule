@@ -1,0 +1,23 @@
+Second Week:
+    getting the car: 
+    -how is the input formated?
+    -categorical vs linear
+        -end-to-end
+    -capturing data
+Thirth week:
+    -testing data capturing script
+    -model creation (CNN) linear
+    -Data Gathering
+Forth week:
+    -Data gathering
+    -semi working model controlls car
+    -model optimazation
+    optional: if succesfull model: 1 person searches for reïnforcment learning model.
+Fifth week:
+    -testing supervised model
+    -Documenting the process
+    optional: -conluding reïnforcment trainging possibility
+        -if yes: training the model!
+Final week:
+    -making the raport
+    -presentation
